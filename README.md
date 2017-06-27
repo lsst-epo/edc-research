@@ -1,2 +1,2 @@
-# epod-research
-EPO Data Center Research
+# edc-research
+EPO Data Center (EDC) Research
